@@ -1,0 +1,21 @@
+question,answer
+What does the acronym 'IP' stand for?,Internet Protocol
+Which protocol is used to transfer web pages?,HTTP
+What does 'TCP' stand for?,Transmission Control Protocol
+What is the purpose of a router in a network?,To forward data packets between computer networks
+Which layer of the OSI model is responsible for error detection and correction?,Data Link Layer
+What does the acronym 'DNS' stand for?,Domain Name System
+Which protocol is used to secure data transmission over the Internet?,HTTPS
+What is a subnet mask used for in a network?,To divide an IP address into network and host portions
+What does 'MAC' stand for in networking?,Media Access Control
+Which device operates at the Data Link layer of the OSI model?,Switch
+What is the main function of a firewall?,To protect a network by controlling incoming and outgoing network traffic
+Which protocol is used to send emails?,SMTP
+What does 'ARP' stand for?,Address Resolution Protocol
+Which port number is used by the HTTP protocol?,80
+What is the maximum length of a UTP Ethernet cable?,100 meters
+What does 'VPN' stand for?,Virtual Private Network
+Which protocol is used for remote login to a computer system?,SSH
+What is the purpose of a DHCP server?,To dynamically assign IP addresses to devices on a network
+What is the primary function of a network switch?,To connect devices within a single network
+Which layer of the OSI model does the IP protocol operate at?,Network Layer
